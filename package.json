@@ -1,0 +1,6 @@
+{
+  "name": "wxpm",
+  "version": "0.0.0",
+  "description": "Weex package manager",
+  "main": "index.js"
+}
